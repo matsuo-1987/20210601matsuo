@@ -1,0 +1,38 @@
+.top {
+  color: rgb(9, 9, 184);
+}
+.he {
+  display: flex;
+}
+h1 {
+  font-size: 15px;
+}
+p {
+  flex-direction: row;
+  padding-left: 20px;
+  position: relative;
+  left: 750px;
+  bottom: 10px;
+}
+img {
+  width: 50%;
+  height: 50%;
+  position: relative;
+  left: 600px;
+  top: 100px;
+  z-index: 20;
+}
+.text {
+  font-size: 40px;
+  font-weight: 100;
+  position: relative;
+  bottom: 100px;
+}
+.kara {
+  background-color: rgb(2, 2, 129);
+  width: 950px;
+  height: 150px;
+  position: relative;
+  bottom: 150px;
+  z-index: 10;
+}
