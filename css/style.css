@@ -24,9 +24,11 @@ img {
 }
 .text {
   font-size: 40px;
-  font-weight: 100;
   position: relative;
   bottom: 100px;
+}
+h2{
+  font-weight: 100;
 }
 .kara {
   background-color: rgb(2, 2, 129);
